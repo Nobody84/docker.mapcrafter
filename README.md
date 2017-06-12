@@ -1,0 +1,2 @@
+# docker.mapcrafter
+Mapcrafter is a high performance Minecraft map renderer written in C++ which renders your Minecraft worlds to fancy maps viewable in any webbrowser.
