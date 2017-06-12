@@ -6,7 +6,7 @@ ENV DEBIAN_FRONTEND noninteractive
 ENV HOME /
 
 # upgrade the system
-RUN apt-get update && -y apt-get upgrade
+RUN apt-get update && apt-get -y upgrade
 
 # install depedencies
 RUN apt-get update && \
